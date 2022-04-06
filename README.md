@@ -10,3 +10,5 @@
 3. Practise Work
 
 - https://github.com/Maureen36Mathenge/Football-Match-prediction/blob/master/Moringa_Core_IP_Week_6_Maureen_Mathenge.ipynb
+
+- https://github.com/kingazaan/serie_a_analysis/blob/main/analysis.ipynb
